@@ -1,2 +1,2 @@
-# RobotFrameWork-Desktop-Automa-o
-Projeto - Automação desktop utilizando robotframework com bibliotecas em python.
+# RobotFrameWork-Desktop
+Diversos Exemplos De Automações desktop utilizando robotframework com bibliotecas em python.
